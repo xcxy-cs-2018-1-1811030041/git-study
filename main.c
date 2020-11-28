@@ -18,7 +18,7 @@ int main()
             printf("num:");
             scanf("%d",&student[i].num);
             printf("name:");
-         scanf("%s",&student[i].name);
+         scanf("%S",&student[i].name);
          printf("score:");
          scanf("%d%d%d",&student[i].score[0],&student[i].score[1],&student[i].score[2]);}
     print(student);
