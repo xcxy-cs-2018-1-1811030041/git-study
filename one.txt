@@ -1,1 +1,10 @@
 Have you ever complained about your life?
+<<<<<<< HEAD
+=======
+你是否曾经抱怨过生活？
+
+You want to be you intense and dramatic.
+你希望自己是热情的、生动的。
+
+I love you  with in my heart!
+>>>>>>> 71170982ee93b0d1e2a6149698197a91bf459cbb
